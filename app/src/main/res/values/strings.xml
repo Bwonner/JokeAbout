@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JokeAbout</string>
+    <string name="all_btn_30_sec">30 sec.</string>
+    <string name="all_btn_1_min">1 min.</string>
+    <string name="all_btn_1_hour">1 h.</string>
+    <string name="all_btn_save">Save</string>
+    <string name="all_hint_first_name">First Name</string>
+    <string name="all_hint_last_name">Last Name</string>
+</resources>
